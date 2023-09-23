@@ -1,0 +1,27 @@
+{
+    "group-id": {
+        "name":"ZotCore Method-support",
+        "items": [
+            {
+                "name": "Block",
+                "path": "api/Block.md"
+            },{
+                "name": "CallbackList",
+                "path": "api/CallbackList.md"
+            },{
+                "name": "CallbackList",
+                "path": "api/CallbackList.md"
+            },{
+                "name": "Item",
+                "path": "api/Item.md"
+            },{
+                "name": "Saver",
+                "path": "api/Saver.md"
+            },{
+                "name": "Entity",
+                "path": "api/Entity.md"
+            }
+        ]
+    }
+}
+
