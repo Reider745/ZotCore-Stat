@@ -6,7 +6,7 @@
 | addRepairItemIds               | -         | Server |
 | addToCreative                  | +-        | Server |
 | createArmorItem                | -         | Server |
-| createFoodItem                 | -         | Server |
+| createFoodItem                 | +         | Server |
 | createFuelItem                 | -         | Server |
 | createItem                     | +         | Server |
 | createThrowableItem            | -         | Server |
@@ -34,7 +34,7 @@
 | setEnchantType                 | -         | Server |
 | setGlint                       | +         | Client |
 | setLiquidClip                  | -         | Server |
-| setMaxDamage                   | -         | Server |
+| setMaxDamage                   | +         | Server |
 | setMaxUseDuration              | -         | Server |
 | setProperties                  | -         | Server |
 | setPrototype                   | -         | Server |
